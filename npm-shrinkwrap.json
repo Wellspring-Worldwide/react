@@ -1189,9 +1189,9 @@
       }
     },
     "es5-shim": {
-      "version": "4.0.3",
+      "version": "4.0.6",
       "from": "es5-shim@^4.0.0",
-      "resolved": "https://registry.npmjs.org/es5-shim/-/es5-shim-4.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/es5-shim/-/es5-shim-4.0.6.tgz"
     },
     "grunt": {
       "version": "0.4.5",
